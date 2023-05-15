@@ -1,0 +1,2 @@
+route_idは一本の線、shape_idは上りと下りで分かれている。
+大体は、route_idに対して、二つのshape_idがあって、direction_typeで分かれているのかな。
