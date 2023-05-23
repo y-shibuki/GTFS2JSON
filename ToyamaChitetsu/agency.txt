@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+5230001002133,富山地方鉄道株式会社 ,https://www.chitetsu.co.jp/,Asia/Tokyo,ja,,
